@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : # "Your Name / Site Title"
+title                    : "Azat Khadiev @ DESY"
 title_separator          : "-"
 name                     : &name "Azat Khadiev"
 description              : &description "Beamline Scientist at P23 beamline DESY"
