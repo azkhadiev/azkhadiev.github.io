@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : # "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Azat Khadiev"
 description              : &description "Beamline Scientist at P23 beamline DESY"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Azat Khadiev"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Beamline Scientist at P23 In situ X-ray diffraction and imaging beamline"
   location         : "Notkestr. 85, Hamburg, Germany"
   employer         : "Deutsches Elektronen-Synchrotron DESY"
   uri              : # URL
@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-7577-2855"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Azat-Khadiev?ev=hdr_xprf"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57194509870"
 
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
