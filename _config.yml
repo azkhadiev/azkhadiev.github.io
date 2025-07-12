@@ -34,12 +34,12 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=hpzEkEMAAAAJ&hl=ru"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-7577-2855"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Azat-Khadiev?ev=hdr_xprf"
+  researchgate     : "https://www.researchgate.net/profile/Azat-Khadiev?ev=prf_overview"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57194509870"
 
   # Repositories and software development
