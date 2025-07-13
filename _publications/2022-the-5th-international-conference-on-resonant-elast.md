@@ -1,0 +1,14 @@
+---
+title: "the 5th international conference on Resonant Elastic X-ray Scattering is hosted in Europe again."
+collection: publications
+permalink: /publication/2022-the-5th-international-conference-on-resonant-elast/
+excerpt: "REXS2022, 2022"
+date: 2022-01-01
+year: 2022
+authors: Jal, E and Massot, D and Haskel, D and Mazzoli, C and Rodolakis, F
+journal: REXS2022
+volume: 
+number: 
+pages: 
+doi: 
+---
