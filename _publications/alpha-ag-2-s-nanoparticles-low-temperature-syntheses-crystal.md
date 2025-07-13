@@ -1,5 +1,5 @@
 ---
-title: "&alpha-Ag<sub>2</sub>S nanoparticles: low-temperature syntheses, crystallisation pathway, and first operando luminescence measurements for sodium-ion battery applications"
+title: "&alpha;-Ag<sub>2</sub>S nanoparticles: low-temperature syntheses, crystallisation pathway, and first operando luminescence measurements for sodium-ion battery applications"
 collection: publications
 permalink: /publication/alpha-ag-2-s-nanoparticles-low-temperature-syntheses-crystal/
 excerpt: "New Journal of Chemistry, 2024"
