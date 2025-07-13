@@ -1,11 +1,13 @@
 <article>
   <p style="color:red;">[debug: archive-single.html is working]</p>
-  
-  <h3>{{ post.title }}</h3>
-  <p>{{ post.authors }}</p>
-  <p><em>{{ post.journal }}</em> {% if post.volume %} <strong>{{ post.volume }}</strong>{% endif %}
-    {% if post.number %} ({{ post.number }}){% endif %}
-    {% if post.pages %}, {{ post.pages }}{% endif %}
-    {% if post.doi %} <a href="https://doi.org/{{ post.doi }}">DOI</a>{% endif %}
+
+  <h3>{{ include.post.title }}</h3>
+  <p>{{ include.post.authors }}</p>
+  <p>
+    <em>{{ include.post.journal }}</em>
+    {% if include.post.volume %}<strong> {{ include.post.volume }}</strong>{% endif %}
+    {% if include.post.number %} ({{ include.post.number }}){% endif %}
+    {% if include.post.pages %}, {{ include.post.pages }}{% endif %}
+    {% if include.post.doi %} <a href="https://doi.org/{{ include.post.doi }}">DOI</a>{% endif %}
   </p>
 </article>
