@@ -1,7 +1,7 @@
 ---
 title: "Nanotubes from the Misfit Layered Compound (SmS) 1.19 TaS2: atomic structure, charge transfer, and electrical properties"
 collection: publications
-permalink: /publication/2022-nanotubes-from-the-misfit-layered-compound-sms-1-1/
+permalink: /publication/test-publication/
 excerpt: "Chemistry of materials, 2022"
 date: 2022-01-01
 year: 2022
