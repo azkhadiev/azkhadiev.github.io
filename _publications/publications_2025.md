@@ -1,8 +1,0 @@
----
-layout: archive
-title: "Publications 2025"
-permalink: /publications/2025/
-author_profile: true
----
-
-**Chemical strain induced Rashba effect in two-dimensional Ruddlesden-Popper perovskites**<br />KT, Suhas and Das, Tisita and Singh, Aditya and Khadiev, Azat and Soni, Ajay and Chakraborty, Sudip and Viswanatha, Ranjani<br />*Physical Review B*, **111**(8), L081401<br /><br />**How a Single Atom Influences the Spatiotemporal Response of Flexible MOFs: Insights from Theory and Experiment**<br />Sobczak, Szymon K and Mazur, Bartosz and Malinska, Maura and Formalik, Filip and Bon, Volodymyr and Khadiev, Azat and Kaskel, Stefan and Kuchta, Bogdan and Janiak, Agnieszka M and Roztocki, Kornel<br />*Journal of the American Chemical Society*<br /><br />**Investigating the mechanism of time dependent evolution of vertical graphene nanowalls**<br />Singh, Hari and Chakravarty, Sujay and ManojKumar, PA and Sen, Sujoy and Amirthapandian, S and Govindaraj, R and Khadiev, Azat<br />*Applied Surface Science*, **681**, 161588<br /><br />**Structure and properties of tubular structures based on the quaternary misfit layered compound Sm 1- x Y x S--TaS 2**<br />Hettler, Simon and Furqan, Mohammad and Sreedhara, MB and Khadiev, Azat and Tenne, Reshef and Arenal, Raul<br />*RSC advances*, **15**(13), 9605--9617<br /><br />**Structure of Protein Cage Supercrystals Revealed by Angular X-ray Cross-Correlation Analysis**<br />Ngoi, Kuan Hoon and Lang, Laurin and Kim, Young Yong and Mucke, Niklas and Hinsley, Gerard N and Kim, Dongwon and R\<br />*Small Structures*, 2400684<br /><br />
