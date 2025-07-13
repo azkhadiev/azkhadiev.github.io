@@ -13,4 +13,4 @@ What fascinates me most is when a pattern in the data reveals something unexpect
 
 I also take great satisfaction in supporting users throughout their experiments. Seeing their excitement when something finally works feels like a shared discovery. It’s one of the most rewarding aspects of my work.
 
-I’m always happy to connect with researchers who are curious about pushing the limits of what we can see with X-rays — whether through new experimental ideas, beamtime proposals, or long-term collaborations. If you're working on something that might benefit from in situ, anomalous or sub-micron X-ray methods, feel free to reach out. Let's explore what we can discover together.
+I’m always happy to connect with researchers who are curious about pushing the limits of what we can see with X-rays - whether through new experimental ideas, beamtime proposals, or long-term collaborations. If you're working on something that might benefit from in situ, anomalous or sub-micron X-ray methods, feel free to reach out. Let's explore what we can discover together.
