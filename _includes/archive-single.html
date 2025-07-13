@@ -1,6 +1,6 @@
 <article>
   <h3>{{ include.post.title }}</h3>
-  <p>{{ include.post.authors }}</p>
+  <p>{{ include.post.authors | replace: " and ", ", " }}</p>
   <p>
     <em>{{ include.post.journal }}</em>
     {% if include.post.volume %}<strong> {{ include.post.volume }}</strong>{% endif %}
