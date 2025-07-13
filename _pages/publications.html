@@ -25,7 +25,6 @@ author_profile: true
   <hr />
   {% for pub in publications_sorted %}
     {% if pub.year == year %}
-      {{ pub.year }} — {{ pub.title }}<br />
       {% include archive-single.html post=pub %}
     {% endif %}
   {% endfor %}
