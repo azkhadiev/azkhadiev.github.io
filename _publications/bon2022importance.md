@@ -5,7 +5,7 @@ permalink: /publication/bon2022importance/
 excerpt: "Chemical Communications, 2022"
 date: 2022-01-01
 year: "2022"
-authors: Bon, Volodymyr and Busov, Nikita and Senkovska, Irena and Bönisch, Nadine and Abylgazina, Leila and Khadiev, Azat and Novikov, Dmitri and Kaskel, Stefan
+authors: Volodymyr Bon, Nikita Busov, Irena Senkovska, Nadine Bönisch, Leila Abylgazina, Azat Khadiev, Dmitri Novikov, Stefan Kaskel
 journal: Chemical Communications
 volume: 58
 number: 75
