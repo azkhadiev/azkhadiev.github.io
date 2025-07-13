@@ -3,14 +3,13 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+---
 
 {% if site.author.googlescholar %}
 <div class="wordwrap">
   You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
 </div>
 {% endif %}
-
----
 
 {% assign publications_sorted = site.publications | sort: 'year' | reverse %}
 {% assign years = publications_sorted | map: 'year' | uniq %}
@@ -30,3 +29,14 @@ author_profile: true
     {% endif %}
   {% endfor %}
 {% endfor %}
+✅ Дальнейшие шаги:
+Вставь исправленный код в publications.html (или .md, если используешь .md)
+
+Сохрани, закоммить и запушь:
+
+bash
+Копировать
+Редактировать
+git add _pages/publications.html
+git commit -m "Fix front matter and restore Google Scholar link"
+git push
