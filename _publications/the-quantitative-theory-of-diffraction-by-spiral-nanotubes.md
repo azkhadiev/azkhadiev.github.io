@@ -8,7 +8,7 @@ year: "2014"
 authors: Oleg Figovsky, Dmitry Pashin, Zufar Khalitov, Azat Khadiev
 journal: Chemistry \& Chemical Technology
 volume: 
-number: 8,№ 1
-pages: 41--50
-doi: 
+number: 14
+pages: 41-50
+doi: /10.18321/ectj125
 ---

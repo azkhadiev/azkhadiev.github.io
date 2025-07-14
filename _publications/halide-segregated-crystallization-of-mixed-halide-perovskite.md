@@ -5,10 +5,10 @@ permalink: /publication/halide-segregated-crystallization-of-mixed-halide-perovs
 excerpt: "ACS applied materials \& interfaces, 2024"
 date: 2024-01-01
 year: "2024"
-authors: Lena Merten, Timo Eberle, Ekaterina Kneschaurek, Niels Scheffczyk, Paul Zimmermann, Ivan Zaluzhnyy, Azat Khadiev, Florian Bertram, Fabian Paulus, Alexander Hinderhofer, others
-journal: ACS applied materials \& interfaces
+authors: Lena Merten, Timo Eberle, Ekaterina Kneschaurek, Niels Scheffczyk, Paul Zimmermann, Ivan Zaluzhnyy, Azat Khadiev, Florian Bertram, Fabian Paulus, Alexander Hinderhofer, Frank Schreiber
+journal: ACS applied materials & interfaces
 volume: 16
 number: 7
-pages: 8913--8921
-doi: 
+pages: 8913-8921
+doi: /10.1021/acsami.3c18623
 ---

@@ -9,6 +9,6 @@ authors: Simon Chung, Jan-Christian Schober, Steffen Tober, Daniel Schmidt, Azat
 journal: ACS nano
 volume: 15
 number: 8
-pages: 13267--13278
-doi: 
+pages: 13267-13278
+doi: /10.1021/acsnano.1c03002
 ---

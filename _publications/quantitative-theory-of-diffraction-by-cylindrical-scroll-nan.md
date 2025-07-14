@@ -9,6 +9,6 @@ authors: Azat Khadiev, Zufar Khalitov
 journal: Foundations of Crystallography
 volume: 74
 number: 3
-pages: 233--244
-doi: 
+pages: 233-244
+doi: /10.1107/S2053273318003169
 ---

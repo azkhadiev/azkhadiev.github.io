@@ -5,10 +5,10 @@ permalink: /publication/revealing-the-impact-of-polystyrene-functionalization-of
 excerpt: "ChemNanoMat, 2023"
 date: 2023-01-01
 year: "2023"
-authors: Dmitry Lapkin, Shweta Singh, Felizitas Kirner, Sebastian Sturm, Dameli Assalauova, Alexandr Ignatenko, Thomas Wiek, Thomas Gemming, Axel Lubk, M\
+authors: Dmitry Lapkin, Shweta Singh, Felizitas Kirner, Sebastian Sturm, Dameli Assalauova, Alexandr Ignatenko, Thomas Wiek, Thomas Gemming, Axel Lubk, Knut Müller-Caspary, Azat Khadiev, Dmitri Novikov, Elena V. Sturm, Ivan A. Vartanyants
 journal: ChemNanoMat
 volume: 9
 number: 12
 pages: e202300336
-doi: 
+doi: /10.1002/cnma.202300336
 ---

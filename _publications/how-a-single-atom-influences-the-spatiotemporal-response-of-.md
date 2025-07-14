@@ -7,8 +7,8 @@ date: 2025-01-01
 year: "2025"
 authors: Szymon K Sobczak, Bartosz Mazur, Maura Malinska, Filip Formalik, Volodymyr Bon, Azat Khadiev, Stefan Kaskel, Bogdan Kuchta, Agnieszka M Janiak, Kornel Roztocki
 journal: Journal of the American Chemical Society
-volume: 
-number: 
-pages: 
-doi: 
+volume: 147
+number: 25
+pages: 21575-21585
+doi: /10.1021/jacs.5c02552
 ---

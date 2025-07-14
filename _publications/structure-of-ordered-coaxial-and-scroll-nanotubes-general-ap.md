@@ -9,6 +9,6 @@ authors: Zufar Khalitov, Azat Khadiev, Diana Valeeva, Dmitry Pashin
 journal: Foundations of Crystallography
 volume: 72
 number: 1
-pages: 36--49
-doi: 
+pages: 36-49
+doi: /10.1107/S2053273315019440
 ---
