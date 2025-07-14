@@ -5,10 +5,10 @@ permalink: /publication/crystallisation-of-phosphates-revisited-a-multi-step-for
 excerpt: "Zeitschrift f\, 2022"
 date: 2022-01-01
 year: "2022"
-authors: Laura Ruiz Arana, Str\
-journal: Zeitschrift f\
+authors: Laura Ruiz Arana, Jonas Ströh, Jasper Amtsfeld, Giscard Doungmo, Dmitri Novikov, Azat Khadiev, Martin Etter, Michael Wharmby, Markus Suta and Huayna Terraschke
+journal: Zeitschrift für Naturforschung B
 volume: 77
 number: 4-5
-pages: 263--272
-doi: 
+pages: 263-272
+doi: /10.1515/znb-2021-0182
 ---

@@ -5,10 +5,10 @@ permalink: /publication/chemical-vapor-deposition-and-high-resolution-patterning
 excerpt: "Journal of the American Chemical Society, 2022"
 date: 2022-01-01
 year: "2022"
-authors: Victor Rubio-Gimenez, Giel Arnauts, Mingchao Wang, Eduardo Sergio Oliveros Mata, Xing Huang, Tianshu Lan, Max L Tietze, Dmitry E Kravchenko, Jorid Smets, Nathalie Wauteraerts, others
+authors: Víctor Rubio-Giménez, Giel Arnauts, Mingchao Wang, Eduardo Sergio Oliveros Mata, Xing Huang, Tianshu Lan, Max L. Tietze, Dmitry E. Kravchenko, Jorid Smets, Nathalie Wauteraerts, Azat Khadiev, Dmitri Novikov, Denys Makarov, Renhao Dong, Rob Ameloot
 journal: Journal of the American Chemical Society
 volume: 145
 number: 1
-pages: 152--159
-doi: 
+pages: 152-159
+doi: /10.1021/jacs.2c09007
 ---

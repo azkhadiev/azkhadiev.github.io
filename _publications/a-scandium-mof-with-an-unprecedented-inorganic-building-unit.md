@@ -9,6 +9,6 @@ authors: Pia Rönfeldt, Erik Svensson Grape, A Ken Inge, Dmitri V Novikov, Azat
 journal: Inorganic chemistry
 volume: 59
 number: 13
-pages: 8995--9004
-doi: 
+pages: 8995-9004
+doi: /10.1021/acs.inorgchem.0c00840
 ---

@@ -9,6 +9,6 @@ authors: Zufar Khalitov, Azat Khadiev, Dmitry Pashin
 journal: Applied Crystallography
 volume: 48
 number: 1
-pages: 29--36
-doi: 
+pages: 29-36
+doi: /10.1107/S1600576714024005
 ---
