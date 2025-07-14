@@ -9,6 +9,6 @@ authors: Matthias Smuda, Kati Finzel, Martin Hantusch, Jonas Ströh, Nicole Pien
 journal: New Journal of Chemistry
 volume: 48
 number: 3
-pages: 1086--1095
+pages: 1086-1095
 doi: /10.1039/D1DT03199F
 ---
